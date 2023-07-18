@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+}
+
+.gina{
+display: flex;
+}
+
+section div a{
+    text-decoration: none;
+    color: darkgrey ;
+}
+
+.boton button{
+    margin: 5px;
+width: 50px ;
+height: 50px;
+background-color: darkgrey;
+}
+a{
+    margin: 0 9px;
+}

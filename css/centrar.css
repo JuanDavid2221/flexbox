@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    display: flex;
+    height: 800px;
+    justify-content: center;
+    align-items: center;
+}
+
+section div{
+   width: 500px;
+padding: 14px;
+    background-color: lightgray;
+    justify-content: center;
+
+}
